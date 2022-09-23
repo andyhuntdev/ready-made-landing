@@ -12,7 +12,7 @@ export default function Section() {
                         Let's create more tools and ideas that brings us together.
                     </h2>
                     <p className="mb-6 font-light text-gray-500 md:text-lg dark:text-gray-400">
-                        Flowbite helps you connect with friends and communities of people who share
+                        Ready made helps you connect with friends and communities of people who share
                         your interests. Connecting with your friends and family as well as
                         discovering new ones is easy with features like Groups.
                     </p>

@@ -6,7 +6,7 @@ export default function Footer() {
             <div className="mx-auto max-w-screen-xl">
                 <div className="md:flex md:justify-between">
                     <div className="mb-6 md:mb-0">
-                        <a href="https://flowbite.com" className="flex items-center">
+                        <a href="https://Ready made.com" className="flex items-center">
                             <Logo/>
                             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white ml-2">
                                 Ready made
@@ -20,8 +20,8 @@ export default function Footer() {
                             </h2>
                             <ul className="text-gray-600 dark:text-gray-400">
                                 <li className="mb-4">
-                                    <a href="https://flowbite.com" className="hover:underline">
-                                        Flowbite
+                                    <a href="https://Ready made.com" className="hover:underline">
+                                        Ready made
                                     </a>
                                 </li>
                                 <li>
@@ -38,7 +38,7 @@ export default function Footer() {
                             <ul className="text-gray-600 dark:text-gray-400">
                                 <li className="mb-4">
                                     <a
-                                        href="https://github.com/themesberg/flowbite"
+                                        href="https://github.com/themesberg/Ready made"
                                         className="hover:underline "
                                     >
                                         Github
@@ -74,8 +74,8 @@ export default function Footer() {
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
                         © 2022{' '}
-                        <a href="https://flowbite.com" className="hover:underline">
-                            Flowbite™
+                        <a href="https://Ready made.com" className="hover:underline">
+                            Ready made™
                         </a>
                         . All Rights Reserved.
                     </span>

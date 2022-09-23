@@ -7,7 +7,7 @@ export default function PriceTable() {
                         Designed for business teams like yours
                     </h2>
                     <p className="mb-5 font-light text-gray-500 sm:text-xl dark:text-gray-400">
-                        Here at Flowbite we focus on markets where technology, innovation, and
+                        Here at Ready made we focus on markets where technology, innovation, and
                         capital can unlock long-term value and drive economic growth.
                     </p>
                 </div>
