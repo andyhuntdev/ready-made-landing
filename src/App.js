@@ -1,6 +1,6 @@
 import Header from './components/Header';
 import Hero from './components/Hero';
-import SectionOne from './components/SectionOne';
+import Section from './components/Section';
 import Footer from './components/Footer';
 import Features from './components/Features';
 import PriceTable from './components/PriceTable';
@@ -17,7 +17,7 @@ function App() {
             <Numbers />
             <Features />
             <Customers />
-            <SectionOne />
+            <Section />
             <PriceTable />
             <Faq />
             <Newsletter />
