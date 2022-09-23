@@ -1,9 +1,27 @@
 import Header from './components/Header';
+import Hero from './components/Hero';
+import SectionOne from './components/SectionOne';
+import Footer from './components/Footer';
+import Features from './components/Features';
+import PriceTable from './components/PriceTable';
+import Faq from './components/Faq';
+import Customers from './components/Customers';
+import Numbers from './components/Numbers';
+import Newsletter from './components/Newsletter';
 
 function App() {
     return (
         <>
             <Header />
+            <Hero />
+            <Numbers />
+            <Features />
+            <Customers />
+            <SectionOne />
+            <PriceTable />
+            <Faq />
+            <Newsletter />
+            <Footer/>
         </>
     );
 }
