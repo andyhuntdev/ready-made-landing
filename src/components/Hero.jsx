@@ -4,11 +4,10 @@ export default function Hero() {
             <div className="grid max-w-screen-xl px-4 py-8 mx-auto my-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
                 <div className="mr-auto place-self-center lg:col-span-7">
                     <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
-                        Payments tool for software companies
+                        A ready made landing page template
                     </h1>
                     <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">
-                        From checkout to global sales tax compliance, companies around the world use
-                        Ready made to simplify their payment stack.
+                    Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally
                     </p>
                     <a
                         href="#"

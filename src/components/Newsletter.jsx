@@ -51,7 +51,7 @@ export default function Newsletter() {
                             We care about the protection of your data.{' '}
                             <a
                                 href="#"
-                                className="font-medium text-primary-600 dark:text-primary-500 hover:underline"
+                                className="font-medium text-white hover:underline"
                             >
                                 Read our Privacy Policy
                             </a>
