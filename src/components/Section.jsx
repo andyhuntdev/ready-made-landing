@@ -4,7 +4,7 @@ export default function Section() {
             <div className="gap-8 items-center py-10 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-20 lg:px-6">
                 <img
                     className="w-full"
-                    src="/img/undraw_dashboard.svg"
+                    src="https://ik.imagekit.io/8fhqrij68/ready-made-landing/dashboard.svg"
                     alt="dashboard image"
                 />
                 <div className="mt-4 md:mt-0">

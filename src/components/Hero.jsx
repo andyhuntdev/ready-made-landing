@@ -36,7 +36,7 @@ export default function Hero() {
                 </div>
                 <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
                     <img
-                        src="/img/undraw_woman.svg"
+                        src="https://ik.imagekit.io/8fhqrij68/ready-made-landing/woman.svg"
                         alt="mockup"
                     />
                 </div>
