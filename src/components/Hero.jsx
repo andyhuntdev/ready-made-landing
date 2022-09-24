@@ -7,7 +7,7 @@ export default function Hero() {
                         A ready made landing page template
                     </h1>
                     <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">
-                    Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally
+                    The project wants to be a resource for all who need to launch a landing page faster with the possibility to configure colors, themes and fonts.
                     </p>
                     <a
                         href="#"
