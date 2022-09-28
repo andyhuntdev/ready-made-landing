@@ -8,7 +8,7 @@
 <br/>
 
 ## Introduction
-A ready made landing page template built with <a href="https://tailwindcss.com/ target=" _blank">Tailwind css</a>. The project wants to be a resource for all who need to launch a landing page faster with the possibility to configure colors, themes and fonts. The page was assembled using <a href="https://flowbite.com/" target="_blank">Flowbite</a> content blocks and <a href="https://undraw.co/" target="_blank">unDraw</a> open-source illustrations.
+A ready made landing page template built with <a href="https://tailwindcss.com/" target=" _blank">Tailwind css</a>. The project wants to be a resource for all who need to launch a landing page faster with the possibility to configure colors, themes and fonts. The page was assembled using <a href="https://flowbite.com/" target="_blank">Flowbite</a> content blocks and <a href="https://undraw.co/" target="_blank">unDraw</a> open-source illustrations.
 
 
 ## Features
